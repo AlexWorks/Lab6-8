@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Abonent&lt;StrType&gt;" Collapsed="true">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abonent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abonent&lt;char*&gt;" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgAAQAAAACAAEAEAAAAAAAEAARAAgEkAIQAABA=</HashCode>
+      <FileName>Abonent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abonent&lt;std::string&gt;" Collapsed="true">
+    <Position X="12" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgAAQAAAACAAEAEAAAAAAAEAARAAgEEAIQAABA=</HashCode>
+      <FileName>Abonent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date_1" Collapsed="true">
+    <Position X="19.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEAAAAAAAAAAAAAIAEQAAAAAQAAAAAAAAAAAQAQAA=</HashCode>
+      <FileName>Date_1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoundationDate" Collapsed="true">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Date_1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date_2" Collapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UggkAAAAIAAAAAAAAAAEQAAAAAQAAgAAAAAAAAQAQAA=</HashCode>
+      <FileName>Date_2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductionDate" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Date_2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookingDate" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Date_2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OperationDate" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Date_2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OperationListDate" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Date_2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Disc&lt;StrType&gt;" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Disc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Disc&lt;char*&gt;" Collapsed="true">
+    <Position X="5.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gECBAAICAIAACAAAAEAABAAAAAAAAAAAQAAgQAAIAAU=</HashCode>
+      <FileName>Disc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Disc&lt;std::string&gt;" Collapsed="true">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gECBAAICAIAACAAAAEAABAAAAAAAAAAAQAAAQAAIAAU=</HashCode>
+      <FileName>Disc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Operation&lt;StrType&gt;" Collapsed="true">
+    <Position X="11" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Operation&lt;char*&gt;" Collapsed="true">
+    <Position X="8.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAABAAAAAAAAEiAIAAEEA=</HashCode>
+      <FileName>Operation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Operation&lt;std::string&gt;" Collapsed="true">
+    <Position X="7.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAABAAAAAAAAEiAAAAEEA=</HashCode>
+      <FileName>Operation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OperationList&lt;T, StrType&gt;" Collapsed="true">
+    <Position X="16.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAABAAEAABCAAAAAIAAMBAAAAEAAECAAAggAAAAAAA=</HashCode>
+      <FileName>OperationList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OperationType" Collapsed="true">
+    <Position X="14.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAARABAAAAAABAAAAAAAA=</HashCode>
+      <FileName>OperationType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Studio&lt;StrType&gt;" Collapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Studio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Studio&lt;char*&gt;" Collapsed="true">
+    <Position X="19.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEgARAIAAAAAAgAACAAAAAAAAAVgACAAAAA=</HashCode>
+      <FileName>Studio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Studio&lt;std::string&gt;" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEgARAIAAAAAAgAACAAAAAAAAAVgACAAAAA=</HashCode>
+      <FileName>Studio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Operation_Type" Collapsed="true">
+    <Position X="24.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>OperationType.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
